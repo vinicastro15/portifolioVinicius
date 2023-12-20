@@ -430,3 +430,12 @@ footer {
 footer p {
   text-align: center;
 }
+
+/*foto redonda*/
+
+.imageVini{
+  width:100%;
+  max-width: 400px;
+  object-fit: cover;
+  border-radius: 50%;
+}

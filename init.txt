@@ -1,0 +1,4 @@
+coisas a melhorar, fazer um projeto para colocar no portifolio, deploy do portifolio netlify, 
+ ter opção de modo escuro .
+
+ trocar e-mail vicastro1_@outlook.com
